@@ -67,4 +67,4 @@ El campo id_comprador hace referencia a la tabla “compradores” mediante un F
 
 Adicionalmente se crean los campos de tipo_de_venta y forma_de_pago, con formato VARCHAR ya que pueden tener caracteres variables y con la condición NOT NULL ya que es obligatorio informar estos datos.
 
-Se adjunta a continuación el script: [Entrega 1 - Sebastian Bayarres.sql](Entrega%201%20-%20Sebastian%20Bayarres.sql)
+Se adjunta a continuación el script: [Script.sql](Script.sql).
