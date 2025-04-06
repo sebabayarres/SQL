@@ -1,4 +1,4 @@
-### Descripción de la temática de la base de datos
+## Descripción de la temática de la base de datos
 
 **Introducción**
 
@@ -20,7 +20,8 @@ La base de datos será utilizada por un vendedor que gestionará la venta de rif
 
 ![Diagrama ER](Diagrama%20Entidad%20Relacion.png)
 
-**Listado de Tablas en la Base de Datos:**
+
+## Listado de Tablas en la Base de Datos:
 
 - **Tabla “compradores”.**
 
