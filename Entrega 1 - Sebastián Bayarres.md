@@ -1,14 +1,26 @@
 ### Descripción de la temática de la base de datos
 
-Anualmente se realiza en Uruguay un viaje de estudiantes de Ciencias Económicas, para el cual se hace una venta de rifas. Cada estudiante debe vender un numero de rifas como mínimo e informar a la institución distintos datos de los compradores.
+**Introducción**
 
-El propósito de esta base de datos es registrar toda la información relacionada con los compradores, así como los sorteos, sus resultados y los premios correspondientes.
+El objetivo de este proyecto es desarrollar una base de datos para la gestión de la información relacionada con la venta de rifas, organizadas anualmente por estudiantes de Ciencias Económicas en Uruguay. Esta base de datos será utilizada exclusivamente por un vendedor, quien tendrá la responsabilidad de registrar y organizar los datos de los compradores, los sorteos realizados y los premios correspondientes. El propósito es optimizar el proceso de recolección, almacenamiento y consulta de información, garantizando la eficiencia y precisión en la administración de las rifas.
 
-### Diagrama Entidad Relación
+**Objetivo**
+
+El objetivo del proyecto es crear una base de datos para que el vendedor registre, organice y consulte eficientemente la información de compradores, sorteos y premios. La base debe permitir seguimiento detallado de ventas y gestionar resultados de sorteos en tiempo real, reduciendo errores y mejorando la transparencia.
+
+**Situación Problemática**
+
+Actualmente, la gestión de la venta de rifas se realiza manualmente, lo cual puede ocasionar inconvenientes como la pérdida de información, errores en el registro de los datos de los compradores y dificultades para llevar un seguimiento adecuado de los sorteos y premios. La implementación de una base de datos solucionará estas problemáticas al permitir un registro centralizado y ordenado de la información, eliminando los errores humanos y mejorando la eficiencia en la gestión de los datos por parte del vendedor.
+
+**Modelos de Negocio**
+
+La base de datos será utilizada por un vendedor que gestionará la venta de rifas para financiar el viaje de estudiantes de Ciencias Económicas. El vendedor registrará los datos de los compradores, los sorteos y los premios. Este sistema permitirá un control eficiente de las rifas vendidas, los resultados y los premios. La implementación simplificará el trabajo del vendedor, mejorando la precisión y agilidad en la gestión.
+
+## Diagrama Entidad Relación
 
 ![Diagrama ER](Diagrama%20Entidad%20Relacion.png)
 
-### Listado de Tablas en la Base de Datos:
+**Listado de Tablas en la Base de Datos:**
 
 - **Tabla “compradores”.**
 
@@ -67,4 +79,4 @@ El campo id_comprador hace referencia a la tabla “compradores” mediante un F
 
 Adicionalmente se crean los campos de tipo_de_venta y forma_de_pago, con formato VARCHAR ya que pueden tener caracteres variables y con la condición NOT NULL ya que es obligatorio informar estos datos.
 
-Se adjunta a continuación el script: [Script.sql](Script.sql).
+A continuación se adjunta el script: [Script.sql](Script.sql)
