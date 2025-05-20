@@ -59,7 +59,7 @@ La función tiene como objetivo devolver el número de rifas vendidas de manera 
 
 La función lee información desde la tabla de ventas.
 
-Ver script adjunto:
+Ver script adjunto: [Funcion Contar Rifas.sql](https://github.com/sebabayarres/SQL/blob/main/Scripts%20Segunda%20Entrega/Funciones/Funcion%20Contar%20Rifas.sql)
 
 ### Listado de Stored Procedures
 
@@ -75,7 +75,7 @@ El procedimiento arroja los siguientes datos:
 - **nombre** de la tabla compradores
 - **apellido** de la tabla compradores
 
-Ver script adjunto:
+Ver script adjunto: [Stored Procedure Tipo de Pago.sql](https://github.com/sebabayarres/SQL/blob/main/Scripts%20Segunda%20Entrega/Stored%20Procedures/Stored%20Procedure%20por%20Tipo%20de%20Pago.sql)
 
 **Stored Procedure “obtener_ventas_por_tipo”**
 
@@ -89,7 +89,7 @@ El procedimiento arroja los siguientes datos:
 - **apellido** de la tabla compradores
 - **tipo_de_venta** de la tabla ventas
 
-Ver script adjunto:
+Ver script adjunto: [Stored Procedure Tipo de Venta.sql](https://github.com/sebabayarres/SQL/blob/main/Scripts%20Segunda%20Entrega/Stored%20Procedures/Stored%20Procedure%20Tipo%20de%20Venta.sql)
 
 ### Listado de Triggers
 
@@ -99,4 +99,4 @@ Se ha creado una tabla de auditoría que registra los cambios de INSERT, UPDATE 
 
 Esto se ha realizado mediante un trigger que registra todas las nuevas adiciones, todos los cambios y todas las eliminaciones de la tabla.
 
-Ver script adjunto:
+Ver script adjunto: [Trigger Venta.sql](https://github.com/sebabayarres/SQL/blob/main/Scripts%20Segunda%20Entrega/Triggers/Trigger%20Venta.sql)
