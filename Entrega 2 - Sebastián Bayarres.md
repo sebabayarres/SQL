@@ -20,7 +20,7 @@ Ver script adjunto:
 
 Se ha agregado un dato de manera manual a modo de ejemplo. Ver script adjunto:
 
-El resto de los datos se ha importado mediante archivo CSV. Se adjuntan capturas de pantalla: Importación de Datos
+El resto de los datos se ha importado mediante archivo CSV. Se adjuntan capturas de pantalla: [Importación de Datos](SQL/Importación%20de%20Datos/)
 
 ### Listado de Vistas
 
