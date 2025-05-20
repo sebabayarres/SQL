@@ -37,7 +37,7 @@ En la vista se expone:
 - **nombre** de la tabla compradores
 - **apellido** de la tabla compradores
 
-Ver script adjunto:
+Ver script adjunto: [Vista Resultados con Nombres.sql](https://github.com/sebabayarres/SQL/blob/main/Scripts%20Segunda%20Entrega/Vistas/Vista%20Resultados%20con%20Nombres.sql)
 
 **Vista “rifa_por_comprador”**
 
@@ -49,7 +49,7 @@ En la vista se expone:
 - **nombre** de la tabla compradores
 - **apellido** de la tabla compradores
 
-Ver script adjunto:
+Ver script adjunto: [Vista Rifa por Comprador.sql](https://github.com/sebabayarres/SQL/blob/main/Scripts%20Segunda%20Entrega/Vistas/Vista%20Rifa%20por%20Comprador.sql)
 
 ### Listado de Funciones
 
