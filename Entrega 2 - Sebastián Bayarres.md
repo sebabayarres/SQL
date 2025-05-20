@@ -8,7 +8,7 @@ En la primera entrega, se definió "id_comprador" como PRIMARY KEY en la tabla v
 
 El campo que no debería repetirse es el de “id_rifa”, ya que cada rifa puede ser vendida a una sola persona. Por tanto, se ha corregido el script para crear la tabla estableciendo el campo “id_rifa” como PRIMARY KEY.
 
-Ver script adjunto: [Cambio de Primary Key en Tabla Ventas.sql](SQL/Scripts%20Segunda%20Entrega/Correcciones/Cambio%20de%20Primary%20Key%20en%20Tabla%20Ventas.sql)
+Ver script adjunto: [Cambio de Primary Key en Tabla Ventas.sql](Scripts Segunda Entrega/Correcciones)
 
 
 **Tabla “Sorteos”.**
@@ -21,7 +21,7 @@ Ver script adjunto: [Cambio de Tabla Sorteos.sql](SQL/Scripts%20Segunda%20Entreg
 
 Se ha agregado un dato de manera manual a modo de ejemplo. Ver script adjunto:
 
-El resto de los datos se ha importado mediante archivo CSV. Se adjuntan capturas de pantalla: [Importación de Datos](SQL/Importación%20de%20Datos/)
+El resto de los datos se ha importado mediante archivo CSV. Se adjuntan capturas de pantalla: [Importación de Datos](https://github.com/sebabayarres/SQL/tree/main/Importación%20de%20Datos)
 
 ### Listado de Vistas
 
