@@ -108,7 +108,7 @@ Ver script adjunto: [Cambio de Tabla Sorteos.sql](https://github.com/sebabayarre
 
 ## Importación de datos
 
-Se ha agregado un dato de manera manual a modo de ejemplo. Ver script adjunto:
+Se ha agregado un dato de manera manual a modo de ejemplo. Ver script adjunto: [Ingreso de Datos.sql](https://github.com/sebabayarres/SQL/blob/main/Scripts%20Segunda%20Entrega/Dato%20Manual/Ingreso%20de%20Datos.sql)
 
 El resto de los datos se ha importado mediante archivo CSV. Se adjuntan capturas de pantalla: [Importación de Datos](https://github.com/sebabayarres/SQL/tree/main/Importación%20de%20Datos)
 
