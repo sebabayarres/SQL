@@ -1,3 +1,5 @@
+DROP TABLE ventas;
+
 CREATE TABLE ventas (
 id_comprador INT,
 id_rifa INT PRIMARY KEY,
